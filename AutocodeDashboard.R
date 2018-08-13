@@ -1,3 +1,7 @@
+# This open source product is licensed under the MIT license. August 13, 2018
+# For more information, use this link:  https://github.com/etaylo19/Auto-coding-Injury-Narratives/blob/master/LICENSE
+#
+#
 # June 20, 2018
 # Edward L. Taylor -- The University of Tennessee, Knoxville
 # This shinydashboard application:
